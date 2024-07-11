@@ -8,7 +8,7 @@ const { path } = defineProps({
 </script>
 
 <template>
-  <div class="flex flex-col justify-between items-center h-full py-4">
+  <div class="flex flex-col justify-between items-center h-full py-6 px-8">
     <img src="~/assets/img/logo-LM.svg" alt="logo" class="max-w-[100px]" />
     <nav>
       <ul class="flex flex-col gap-14">

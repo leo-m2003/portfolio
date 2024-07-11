@@ -1,7 +1,7 @@
 <template>
-  <div class="bg-light h-screen p-12">
+  <div class="bg-light h-screen flex justify-center items-center p-12">
     <div
-      class="flex flex-col justify-between px-12 py-10 items-center h-full bg-primary rounded-[52px] text-light"
+      class="flex flex-col justify-between px-12 py-10 items-center h-full bg-primary rounded-[52px] text-light w-[1400px] box-shadow"
     >
       <div class="flex justify-between w-full items-center">
         <img src="~/assets/img/logo-LM.svg" alt="logo" />

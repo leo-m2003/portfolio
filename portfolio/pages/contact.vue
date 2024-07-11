@@ -3,9 +3,9 @@
 </script>
 
 <template>
-  <div class="bg-light h-screen p-12">
+  <div class="bg-light h-screen p-12 flex justify-center items-center">
     <div
-      class="flex justify-between px-12 py-10 items-center h-full bg-primary rounded-[52px] text-light"
+      class="bg-card"
     >
       <LayoutNav :path="getPath()" />
       <div></div>

@@ -9,3 +9,15 @@
         font-family: 'Monda', sans-serif;
     }
 }
+
+@layer components {
+    .bg-card{
+         @apply flex justify-between p-4 items-center h-full bg-primary rounded-[52px] text-light w-[1400px] box-shadow
+    }
+}
+
+@layer utilities {
+    .box-shadow{
+        box-shadow: 2px 4px 10px 0px rgba(1,20,112,0.25);
+    }
+}
