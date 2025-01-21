@@ -11,11 +11,10 @@ export default {
   theme: {
     extend: {
       colors: {
-        primary: "#011470",
-        secondary: "#FAD107",
-        white: "#FFFFFF",
-        light: "#E8E8E8"
-      }
+      'darkBlue': '#000814',
+      'yellow': '#FFD604',
+      'lightGray': '#EDF2F4',
+      },
     },
   },
   plugins: [],
